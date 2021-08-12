@@ -1,0 +1,107 @@
+{
+    "main": {
+        "name": "Malik Coleman",
+        "description": "I'm a software engineer who enjoys python, fitness ,and a good meal",
+        "image": "testpic.jpg",
+        "bio": "I would describe myself as a team oriented developer who enjoys the feedback and support of a group.",
+        "contactmessage": "Please fill free to reach out to me.",
+        "email": "malikai711@gmail.com",
+        "phone": "562-243-1209",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "city": "Los Angeles",
+            "state": "California"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/malik-c-2697aa1b0/",
+                "className": "fa fa-linkedin"
+            },
+            
+            {
+                "name": "github",
+                "url": "https://github.com/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "California State University Long Beach",
+                "degree": "Bachelors of Science in Computer Science",
+                "graduated": "December 2020",
+                "description": "Relevant Courses: Software Design and Architecture, Object Oriented Application Development, and Critical Thinking in the Digital Information Age."
+            }
+        ],
+        "work": [
+            {
+                "company": "Naval Air Systems Command (NAVAIR)",
+                "title": "Software Engineer",
+                "years": "March 2021 to Present",
+                "description": "Developing modern UI interfaces to improve customer performance."
+            },
+            {
+                "company": "Kids That Code",
+                "title": "Coding Instructor ",
+                "years": "September 2018 to October 2019",
+                "description": "Taught fundamental computer programming concepts and principles such as variables, control structures, and Boolean expressions utilizing Scratch"
+            },
+            {
+                "company": "Spinitar: AV Systems Integrator",
+                "title": "Software Engineering Intern ",
+                "years": "November 2017 to January 2018",
+                "description": "Optimized store procedures in SQL server"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "Java",
+                "level": "60%"
+            },
+            {
+                "name": "SQL",
+                "level": "50%"
+            },
+            {
+                "name": "Teamwork and Attitude",
+                "level": "100%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "BiteBody.XYZ",
+                "category": "Full stack web application that focuses on helping users find workouts and workout plans based on their goals.",
+                "image": "project1.jpg",
+                "url": "https://www.bitebody.xyz/"
+            },
+            {
+                "title": "Study Buddy",
+                "category": "Android mobile application for making flash card sets for studying.",
+                "image": "project2.jpg"
+            },
+            {
+                "title": "Resume Website",
+                "category": "Website to show my resume.",
+                "image": "project3.jpg"
+            },
+            {
+                "title": "Coming Soon",
+                "category": "Currently in the brainstorming phase",
+                "image": "project4.jpg"
+            }
+        ]
+    }
+}
