@@ -2,9 +2,8 @@ import React, { Component } from 'react';
 import ParticlesBg from "particles-bg";
 
 /**
- * 
- * If you want to remove the animation from header, you just need to remove de ParticlesBg component. 
- * If you want to change the type of animation, check this documentation alll types availables: https://github.com/lindelof/particles-bg
+ *  
+ * animation documentation documentation alll types availables: https://github.com/lindelof/particles-bg
  */
 
 export default function Header(props) {

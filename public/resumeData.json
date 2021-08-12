@@ -1,42 +1,28 @@
 {
     "main": {
-        "name": "Hermione Granger",
-        "description": "I'm a web development engineer and I use react and python to develop pages...",
-        "image": "profilepic.jpg",
-        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "youremailhere@gmail.com",
-        "phone": "555-555-5555",
+        "name": "Malik Coleman",
+        "description": "I'm a software engineer who enjoys python, fitness ,and a good meal",
+        "image": "testpic.jpg",
+        "bio": "I would describe myself as a team oriented developer who enjoys the feedback and support of a group.",
+        "contactmessage": "Please fill free to reach out to me.",
+        "email": "malikai711@gmail.com",
+        "phone": "562-243-1209",
         "github": "https://github.com/",
         "project": "https://github.com/",
         "address": {
-            "street": "(Your Street)",
-            "city": "(Your City)",
-            "state": "(Your State)"
+            "city": "Los Angeles",
+            "state": "California"
         },
         "website": "https://github.com/",
         "resumedownload": "https://github.com/",
         "social": [
-            {
-                "name": "facebook",
-                "url": "https://github.com/",
-                "className": "fa fa-facebook"
-            },
-            {
-                "name": "twitter",
-                "url": "http://twitter.com",
-                "className": "fa fa-twitter"
-            },
+            
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/malik-c-2697aa1b0/",
                 "className": "fa fa-linkedin"
             },
-            {
-                "name": "instagram",
-                "url": "http://instagram.com/",
-                "className": "fa fa-instagram"
-            },
+            
             {
                 "name": "github",
                 "url": "https://github.com/",
@@ -48,80 +34,73 @@
         "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
         "education": [
             {
-                "school": "University?",
-                "degree": "Masters in Beer tasting",
-                "graduated": "April 2007",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-            },
-            {
-                "school": "Hogwarts School of Witchcraft and Wizardry",
-                "degree": "Gryffindor House",
-                "graduated": "March 2003",
-                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+                "school": "California State University Long Beach",
+                "degree": "Bachelors of Science in Computer Science",
+                "graduated": "December 2020",
+                "description": "Relevant Courses: Software Design and Architecture, Object Oriented Application Development, and Critical Thinking in the Digital Information Age."
             }
         ],
         "work": [
             {
-                "company": "Department of Magical Law Enforcement",
-                "title": "Ministry of Magic",
-                "years": "December 2010 - Present",
-                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+                "company": "Naval Air Systems Command (NAVAIR)",
+                "title": "Software Engineer",
+                "years": "March 2021 to Present",
+                "description": "Developing modern UI interfaces to improve customer performance."
             },
             {
-                "company": "Department for the Regulation and Control of Magical Creatures",
-                "title": "Ministry of Magic",
-                "years": "March 2007 - December 2010",
-                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+                "company": "Kids That Code",
+                "title": "Coding Instructor ",
+                "years": "September 2018 to October 2019",
+                "description": "Taught fundamental computer programming concepts and principles such as variables, control structures, and Boolean expressions utilizing Scratch"
+            },
+            {
+                "company": "Spinitar: AV Systems Integrator",
+                "title": "Software Engineering Intern ",
+                "years": "November 2017 to January 2018",
+                "description": "Optimized store procedures in SQL server"
             }
         ],
         "skills": [
             {
                 "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "Java",
                 "level": "60%"
             },
             {
-                "name": "VueJs",
-                "level": "55%"
-            },
-            {
-                "name": "ReactJs",
+                "name": "SQL",
                 "level": "50%"
             },
             {
-                "name": "CSS",
-                "level": "90%"
-            },
-            {
-                "name": "JAVA",
-                "level": "80%"
+                "name": "Teamwork and Attitude",
+                "level": "100%"
             }
         ]
     },
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "BiteBody.XYZ",
+                "category": "Full stack web application that focuses on helping users find workouts and workout plans based on their goals.",
                 "image": "project1.jpg",
-                "url": "https://www.google.com"
+                "url": "https://www.bitebody.xyz/"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project2.jpg",
-                "url": "https://www.google.com"
+                "title": "Study Buddy",
+                "category": "Android mobile application for making flash card sets for studying.",
+                "image": "project2.jpg"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project3.jpg",
-                "url": "https://www.google.com"
+                "title": "Resume Website",
+                "category": "Website to show my resume.",
+                "image": "project3.jpg"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project4.jpg",
-                "url": "https://www.google.com"
+                "title": "Coming Soon",
+                "category": "Currently in the brainstorming phase",
+                "image": "project4.jpg"
             }
         ]
     }
